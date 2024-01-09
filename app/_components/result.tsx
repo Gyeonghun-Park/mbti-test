@@ -2,7 +2,6 @@ import { Avatar, AvatarImage } from "@/components/Avatar";
 import { Button } from "@/components/ui/button";
 import { resultList } from "@/db/data";
 import { useQuestion } from "@/store/use-question";
-import Image from "next/image";
 import Link from "next/link";
 
 export const Result = () => {
